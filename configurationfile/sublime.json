@@ -11,4 +11,6 @@
     ],
     "expand_tabs_on_save": true,
     "default_line_ending": "unix",
+    "dpi_scale": 1.0,
+    "font_options": ["gdi"],
 }
