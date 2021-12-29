@@ -1,0 +1,14 @@
+// Settings in here override those in "Default/Preferences.sublime-settings",
+// and are overridden in turn by syntax-specific settings.
+{
+    "font_size": 13,
+    "draw_white_space": "all",
+    "tab_size": 4, 
+    "translate_tabs_to_spaces": true,
+    "ignored_packages":
+    [
+        "Vintage",
+    ],
+    "expand_tabs_on_save": true,
+    "default_line_ending": "unix",
+}
