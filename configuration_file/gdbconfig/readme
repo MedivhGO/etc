@@ -1,0 +1,4 @@
+需要修改gdbinit文件的几个参数
+第三行 gdbutil之前的路径是拷贝后gdbutil文件夹的位置
+最后一行 两个目录分别对应binaryfiled二进制文件原来编译的源码根目录和我们上传的源码根目录
+使用文件夹gdb/bin/gdb 来启动gdb,启动之后使用source命令source /xxx/xxx/xxx/gdbutil/gdbinit 

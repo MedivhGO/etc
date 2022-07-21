@@ -1,0 +1,17 @@
+
+python
+import sys 
+sys.path.insert(0, '/mnt/disk4/111/gdbutil/python/python')
+from libstdcxx.v6.printers import register_libstdcxx_printers
+register_libstdcxx_printers (None)
+end
+echo source /mnt/disk4/111/gdbutil/stl-views-1.0.3.gdb \n
+source /mnt/disk4/111/gdbutil/stl-views-1.0.3.gdb 
+echo handle SIGSEGV nostop noprint \n
+handle SIGSEGV nostop noprint
+echo handle SIGPIPE stop print \n
+handle SIGPIPE stop print
+echo source gdb.cfg \n
+source gdb.cfg
+echo set soure code path \n
+set substitute-path  /mnt/disk1/release/git_repository/111 /home/111/111/1111
