@@ -1,0 +1,48 @@
+2023-11-16 23:53:02  WM_QUERYENDSESSION (lParam: 1 - ENDSESSION_CLOSEAPP) =====================================
+2023-11-16 23:53:05  WM_QUERYENDSESSION (lParam: 1073741825 - ENDSESSION_CLOSEAPP - ENDSESSION_CRITICAL) =====================================
+2023-11-16 23:53:05  Main Notepad++ wnd is disabled by (an active modal-dlg?):  Notepad++ - Windows�Ự�˳�
+2023-11-16 23:53:05  WM_ENDSESSION (wParam: TRUE, lParam: 1073741825 - ENDSESSION_CLOSEAPP - ENDSESSION_CRITICAL)
+2023-11-16 23:53:05  C:\Users\lijin\Documents\学习资料\notepad_conf\config.xml is opened.
+2023-11-16 23:53:05  C:\Users\lijin\Documents\学习资料\notepad_conf\config.xml  9361/9361 bytes are written.
+2023-11-16 23:53:05  C:\Users\lijin\Documents\学习资料\notepad_conf\config.xml is closed.
+2023-11-16 23:53:05  WM_DESTROY (isEndSessionStarted == true)
+2023-11-21 09:20:24  WM_QUERYENDSESSION (lParam: 0 - ordinary system shutdown/restart) =====================================
+2023-11-21 09:21:24  WM_ENDSESSION (wParam: FALSE, lParam: 0 - ordinary system shutdown/restart)
+2023-11-21 09:34:01  C:\Users\lijin\Desktop\test.sql is opened.
+2023-11-21 09:34:01  C:\Users\lijin\Desktop\test.sql  5741/5741 bytes are written.
+2023-11-21 09:34:01  C:\Users\lijin\Desktop\test.sql is closed.
+2023-11-21 09:34:02  WM_CLOSE (isEndSessionStarted == true)
+2023-11-21 09:34:02  C:\Users\lijin\Documents\学习资料\notepad_conf\config.xml is opened.
+2023-11-21 09:34:02  C:\Users\lijin\Documents\学习资料\notepad_conf\config.xml  9336/9336 bytes are written.
+2023-11-21 09:34:02  C:\Users\lijin\Documents\学习资料\notepad_conf\config.xml is closed.
+2023-11-21 09:34:02  WM_DESTROY (isEndSessionStarted == true)
+2023-11-21 09:51:50  WM_QUERYENDSESSION (lParam: 0 - ordinary system shutdown/restart) =====================================
+2023-11-21 09:51:50  WM_ENDSESSION (wParam: TRUE, lParam: 0 - ordinary system shutdown/restart)
+2023-11-21 09:51:50  C:\Users\lijin\Documents\学习资料\notepad_conf\config.xml is opened.
+2023-11-21 09:51:50  C:\Users\lijin\Documents\学习资料\notepad_conf\config.xml  9337/9337 bytes are written.
+2023-11-21 09:51:50  C:\Users\lijin\Documents\学习资料\notepad_conf\config.xml is closed.
+2023-11-21 09:51:50  WM_DESTROY (isEndSessionStarted == true)
+2023-11-23 11:14:50  WM_QUERYENDSESSION (lParam: 0 - ordinary system shutdown/restart) =====================================
+2023-11-23 11:14:50  WM_ENDSESSION (wParam: TRUE, lParam: 0 - ordinary system shutdown/restart)
+2023-11-23 11:14:51  C:\Users\lijin\Documents\学习资料\notepad_conf\config.xml is opened.
+2023-11-23 11:14:51  C:\Users\lijin\Documents\学习资料\notepad_conf\config.xml  9337/9337 bytes are written.
+2023-11-23 11:14:51  C:\Users\lijin\Documents\学习资料\notepad_conf\config.xml is closed.
+2023-11-23 11:14:51  WM_DESTROY (isEndSessionStarted == true)
+2024-01-26 03:52:30  WM_QUERYENDSESSION (lParam: 1073741825 - ENDSESSION_CLOSEAPP - ENDSESSION_CRITICAL) =====================================
+2024-01-26 03:52:30  WM_ENDSESSION (wParam: TRUE, lParam: 1073741825 - ENDSESSION_CLOSEAPP - ENDSESSION_CRITICAL)
+2024-01-26 03:52:30  C:\Users\lijin\Documents\学习资料\notepad_conf\config.xml is opened.
+2024-01-26 03:52:30  C:\Users\lijin\Documents\学习资料\notepad_conf\config.xml  9397/9397 bytes are written.
+2024-01-26 03:52:30  C:\Users\lijin\Documents\学习资料\notepad_conf\config.xml is closed.
+2024-01-26 03:52:30  WM_DESTROY (isEndSessionStarted == true)
+2024-02-27 10:39:29  WM_QUERYENDSESSION (lParam: 0 - ordinary system shutdown/restart) =====================================
+2024-02-27 10:39:29  WM_ENDSESSION (wParam: TRUE, lParam: 0 - ordinary system shutdown/restart)
+2024-02-27 10:39:29  C:\Users\lijin\Documents\学习资料\notepad_conf\config.xml is opened.
+2024-02-27 10:39:29  C:\Users\lijin\Documents\学习资料\notepad_conf\config.xml  9490/9490 bytes are written.
+2024-02-27 10:39:29  C:\Users\lijin\Documents\学习资料\notepad_conf\config.xml is closed.
+2024-02-27 10:39:29  WM_DESTROY (isEndSessionStarted == true)
+2024-03-04 16:56:06  WM_QUERYENDSESSION (lParam: 0 - ordinary system shutdown/restart) =====================================
+2024-03-04 16:56:16  WM_ENDSESSION (wParam: TRUE, lParam: 1073741824 - ENDSESSION_CRITICAL)
+2024-03-04 16:56:16  C:\Users\lijin\Documents\学习资料\notepad_conf\config.xml is opened.
+2024-03-04 16:56:16  C:\Users\lijin\Documents\学习资料\notepad_conf\config.xml  9569/9569 bytes are written.
+2024-03-04 16:56:16  C:\Users\lijin\Documents\学习资料\notepad_conf\config.xml is closed.
+2024-03-04 16:56:16  WM_DESTROY (isEndSessionStarted == true)
