@@ -1,1 +1,1 @@
-# linux tools configuration file
+# configuration file
